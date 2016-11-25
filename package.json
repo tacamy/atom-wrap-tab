@@ -1,0 +1,14 @@
+{
+  "name": "wrap-tab",
+  "version": "0.0.0",
+  "description": "When many tabs are opened, it will automatically wrap into multiple lines.",
+  "keywords": [
+    "tab",
+    "wrap"
+  ],
+  "repository": "https://github.com/tacamy/atom-wrap-tab",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
